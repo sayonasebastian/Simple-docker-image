@@ -2,18 +2,18 @@
 Running a python script using docker
 
 ## Python script 
-Reading 2 text files and displaying information such as word count and words maximun word count
+Reading two text files and displaying information such as word count and words with maximum occurrences in the file
 
 ## Dockerfile
-Using alpine base image
+Using an alpine base image
 Installing python and creating required directories
 Setting working directory 
 Copying supported text files
-Setting command to run python script
+Setting the command to run the python script
 
 ## Installation 
 
-Make sure you have docker installed
+Make sure you have docker installed.
 
 Download docker_project_sn.tar file
 
