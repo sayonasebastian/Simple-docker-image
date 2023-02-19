@@ -20,14 +20,15 @@ Make sure you have docker installed
 
   <li>Load image</li>
   ```
-  docker load --input docker_project_sn.tar
-  ```
+$ docker  load --input docker_project_sn.tar
+```
   <li>Check images</li>
-  ```
-  docker images
-  ```
+    ```
+$ docker  images
+```
   <li>Run container image</li>
-  ```
-  docker run docker_project3
-  ```
+      ```
+$ docker  run docker_project3
+```
+
 </ul>
