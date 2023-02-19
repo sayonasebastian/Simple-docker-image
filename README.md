@@ -19,15 +19,15 @@ Make sure you have docker installed
   <li>Download docker_project_sn.tar file</li>
 
   <li>Load image</li>
-  `` 
+  ```
   docker load --input docker_project_sn.tar
-  ``
+  ```
   <li>Check images</li>
-  `` 
+  ```
   docker images
-  ``
+  ```
   <li>Run container image</li>
-  `` 
+  ```
   docker run docker_project3
-  ``
+  ```
 </ul>
