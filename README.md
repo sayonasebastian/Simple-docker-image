@@ -20,13 +20,13 @@ Download docker_project_sn.tar file
 Load image
 
 ```
-$ docker  load --input docker_project_sn.tar
+$ docker load --input docker_project_sn.tar
 ```
 Check images
 ```
-$ docker  images
+$ docker images
 ```
 Run container image
 ```
-$ docker  run docker_project3
+$ docker run docker_project3
 ```
