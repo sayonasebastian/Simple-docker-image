@@ -15,7 +15,7 @@ Setting the command to run the python script
 
 Make sure you have docker installed.
 
-Download docker_project_sn.tar file
+Download docker_project_sn.tar file from https://drive.google.com/file/d/1pl-hWS5E-frHI3bPBOAU6oz1EMtHxUfB/view?usp=sharing
 
 Load image
 
