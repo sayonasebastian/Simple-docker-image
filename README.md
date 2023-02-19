@@ -15,20 +15,18 @@ Setting command to run python script
 
 Make sure you have docker installed
 
-<ul>
-  <li>Download docker_project_sn.tar file</li>
+Download docker_project_sn.tar file
 
-  <li>Load image</li>
-  ```
+Load image
+
+```
 $ docker  load --input docker_project_sn.tar
 ```
-  <li>Check images</li>
-    ```
+Check images
+```
 $ docker  images
 ```
-  <li>Run container image</li>
-      ```
+Run container image
+```
 $ docker  run docker_project3
 ```
-
-</ul>
